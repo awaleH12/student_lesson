@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
 .link_btn{
     display: inline-block;
     padding: 10px 20px;
@@ -13,4 +20,8 @@
     border-radius: 5px;
     margin-top:20px;
     margin-left:20px;
+    transition: background-color 0.3s ease;
+}
+.link_btn:hover{
+    background-color: #004bb5;
 }
