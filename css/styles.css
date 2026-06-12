@@ -14,14 +14,18 @@ body{
 .link_btn{
     display: inline-block;
     padding: 10px 20px;
-    background-color: #006aff;
+    background-color: #5900ff;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
     margin-top:20px;
     margin-left:20px;
+<<<<<<< HEAD
     transition: background-color 0.3s ease;
 }
 .link_btn:hover{
     background-color: #004bb5;
+=======
+    font-size: 18px;
+>>>>>>> main
 }
