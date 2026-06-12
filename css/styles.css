@@ -25,5 +25,7 @@ body{
     border: 1px solid #ff0080;
 }
 .link_btn:hover{
-    background-color: #004bb5;
+    background-color: #ff00d0;
+    border-color: #004bb5;
+    color: #fff;
 }
