@@ -26,4 +26,6 @@ body{
 }
 .link_btn:hover{
     background-color: #004bb5;
+    border: 1px solid #004bb5;
+    color: #fff;
 }
